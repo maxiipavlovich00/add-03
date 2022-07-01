@@ -1,5 +1,8 @@
-Nombre: Maximiliano Pavlovich}
 
-Curso: 5°1 AVIO
+https://wokwi.com/projects/331553148531376722
 
-Materia: Adquisicion de Datos
+Nombre: Maximiliano Pavlovich
+
+Curso: 5°1 Avio
+
+Materia: Adquisicion de Datos)
